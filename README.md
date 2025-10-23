@@ -32,6 +32,19 @@ Website ini terdiri dari tiga halaman utama:
 
 ---
 
+## 🖼️ Tampilan Website
+
+### 🏠 Home Page
+![Home Page](home.png)
+
+### ℹ️ About Page
+![About Page](about.png)
+
+### 🛍️ Detail Product Page
+![Detail Product Page](detail.png)
+
+---
+
 ## 🎥 Demo Video
 Tonton video demo proyek ini di YouTube:  
 👉 https://youtu.be/TVzP9D-jQ9U
