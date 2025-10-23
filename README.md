@@ -50,5 +50,5 @@ Tonton video demo proyek ini di YouTube:
 👉 https://youtu.be/TVzP9D-jQ9U
 
 
-Proyek ini dibuat oleh **[Nama Kamu]**  
-Sebagai tugas akhir mata kuliah *Pemrograman Web*.
+Proyek ini dibuat oleh **Georvin Octianno / 24051204185**  
+Sebagai tugas UTS *PBP*.
